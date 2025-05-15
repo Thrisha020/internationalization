@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "Repository cloned successfully."
+msgstr "Repository erfolgreich geklont."
+
+
+msgid "Error cloning repository."
+msgstr "Fehler beim Klonen des Repositorys."
+
+
+msgid "Latest changes pulled successfully."
+msgstr "Neueste Änderungen erfolgreich übernommen."
+
+
+msgid "Already up to date."
+msgstr "Bereits auf dem neuesten Stand."
+
+
+msgid "Folder deleted."
+msgstr "Ordner gelöscht."
+
+
+msgid "Operation canceled."
+msgstr "Vorgang abgebrochen."
+
+
+msgid "Git operation completed."
+msgstr "Git-Vorgang abgeschlossen."
+
+
+msgid "Sorry, I don’t understand."
+msgstr "Es tut mir leid, ich verstehe nicht."
+
+
+msgid "Checked if {folder_path} is a Git repository: {is_repo}"
+msgstr "Überprüfung, ob {folder_path} ein Git-Repository ist: {is_repo}"
+
+msgid "Listed branches in repository {repo_path}."
+msgstr "Auflistung der Branches im Repository {repo_path}."
+
+msgid "Error listing branches in {repo_path}: {error}"
+msgstr "Fehler beim Auflisten der Branches in {repo_path}: {error}"
+
+
+msgid "Checked out branch '{branch_name}'."
+msgstr "Branch '{branch_name}' erfolgreich ausgecheckt."
+
+msgid "Error checking out branch '{branch_name}': {error}"
+msgstr "Fehler beim Auschecken von Branch '{branch_name}': {error}"
+
+msgid "Checked out fallback branch '{fallback_branch}' successfully."
+msgstr "Branch '{fallback_branch}' erfolgreich als Fallback ausgecheckt."
+
+msgid "Failed to checkout both '{branch_name}' and fallback branch '{fallback_branch}'."
+msgstr "Fehler beim Auschecken von '{branch_name}' und Fallback-Branch '{fallback_branch}'."
+
+msgid "Branch '{branch_name}' pushed to remote repository."
+msgstr "Branch '{branch_name}' wurde zum Remote-Repository gepusht."
+
+msgid "Error pushing branch '{branch_name}': {error}"
+msgstr "Fehler beim Pushen von Branch '{branch_name}': {error}"
+
+msgid "Error: {clone_path} is not a valid Git repository."
+msgstr "Fehler: {clone_path} ist kein gültiges Git-Repository."
+
+msgid "Searching for file '{file_name}' in repository '{repo_path}'"
+msgstr "Suche nach Datei '{file_name}' im Repository '{repo_path}'"
+
+msgid "File found: {file_path}"
+msgstr "Datei gefunden: {file_path}"
+
+msgid "File '{file_name}' not found in repository '{repo_path}'"
+msgstr "Datei '{file_name}' nicht im Repository '{repo_path}' gefunden"
+
+msgid "Attempting to open file in VSCode: {file_path}"
+msgstr "Versuche, Datei in VSCode zu öffnen: {file_path}"
+
+msgid "File opened successfully in VSCode: {file_path}"
+msgstr "Datei erfolgreich in VSCode geöffnet: {file_path}"
+
+msgid "VSCode not installed"
+msgstr "VSCode nicht installiert"
+
+msgid "Error opening file in VSCode: {error}"
+msgstr "Fehler beim Öffnen der Datei in VSCode: {error}"
+
+msgid "Successfully opened: {file_path}"
+msgstr "Erfolgreich geöffnet: {file_path}"
+
+msgid "No changes detected. Please make changes before committing."
+msgstr "Keine Änderungen erkannt. Bitte Änderungen vor dem Commit vornehmen."
+
+msgid "Committing changes with message: {commit_message}"
+msgstr "Änderungen werden mit der Nachricht '{commit_message}' committet"
+
+msgid "Changes pushed to the remote repository successfully"
+msgstr "Änderungen erfolgreich an das Remote-Repository übertragen"
+
+msgid "Error during Git operations: {error}"
+msgstr "Fehler während der Git-Vorgänge: {error}"

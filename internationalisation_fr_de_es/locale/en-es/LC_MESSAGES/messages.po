@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es\n"
+
+msgid "Repository cloned successfully."
+msgstr "Repositorio clonado con éxito."
+
+msgid "Error cloning repository."
+msgstr "Error al clonar el repositorio."
+
+msgid "Latest changes pulled successfully."
+msgstr "Últimos cambios obtenidos con éxito."
+
+msgid "Already up to date."
+msgstr "Ya está actualizado."
+
+msgid "Folder deleted."
+msgstr "Carpeta eliminada."
+
+msgid "Operation canceled."
+msgstr "Operación cancelada."
+
+msgid "Git operation completed."
+msgstr "Operación de Git completada."
+
+msgid "Sorry, I don’t understand."
+msgstr "Lo siento, no entiendo."
+
+msgid "Checked if {folder_path} is a Git repository: {is_repo}"
+msgstr "Se comprobó si {folder_path} es un repositorio Git: {is_repo}"
+
+msgid "Listed branches in repository {repo_path}."
+msgstr "Se listaron las ramas en el repositorio {repo_path}."
+
+msgid "Error listing branches in {repo_path}: {error}"
+msgstr "Error al listar las ramas en {repo_path}: {error}"
+
+msgid "Checked out branch '{branch_name}'."
+msgstr "Rama '{branch_name}' cambiada con éxito."
+
+msgid "Error checking out branch '{branch_name}': {error}"
+msgstr "Error al cambiar a la rama '{branch_name}': {error}"
+
+msgid "Checked out fallback branch '{fallback_branch}' successfully."
+msgstr "Rama de respaldo '{fallback_branch}' cambiada con éxito."
+
+msgid "Failed to checkout both '{branch_name}' and fallback branch '{fallback_branch}'."
+msgstr "Error al cambiar a '{branch_name}' y a la rama de respaldo '{fallback_branch}'."
+
+msgid "Branch '{branch_name}' pushed to remote repository."
+msgstr "La rama '{branch_name}' se ha subido al repositorio remoto."
+
+msgid "Error pushing branch '{branch_name}': {error}"
+msgstr "Error al subir la rama '{branch_name}': {error}"
+
+msgid "Error: {clone_path} is not a valid Git repository."
+msgstr "Error: {clone_path} no es un repositorio Git válido."
+
+msgid "Searching for file '{file_name}' in repository '{repo_path}'"
+msgstr "Buscando el archivo '{file_name}' en el repositorio '{repo_path}'"
+
+msgid "File found: {file_path}"
+msgstr "Archivo encontrado: {file_path}"
+
+msgid "File '{file_name}' not found in repository '{repo_path}'"
+msgstr "Archivo '{file_name}' no encontrado en el repositorio '{repo_path}'"
+
+msgid "Attempting to open file in VSCode: {file_path}"
+msgstr "Intentando abrir el archivo en VSCode: {file_path}"
+
+msgid "File opened successfully in VSCode: {file_path}"
+msgstr "Archivo abierto con éxito en VSCode: {file_path}"
+
+msgid "VSCode not installed"
+msgstr "VSCode no está instalado"
+
+msgid "Error opening file in VSCode: {error}"
+msgstr "Error al abrir el archivo en VSCode: {error}"
+
+msgid "Successfully opened: {file_path}"
+msgstr "Abierto con éxito: {file_path}"
+
+msgid "No changes detected. Please make changes before committing."
+msgstr "No se detectaron cambios. Por favor, realiza cambios antes de hacer commit."
+
+msgid "Committing changes with message: {commit_message}"
+msgstr "Realizando commit con el mensaje: {commit_message}"
+
+msgid "Changes pushed to the remote repository successfully"
+msgstr "Cambios subidos con éxito al repositorio remoto"
+
+msgid "Error during Git operations: {error}"
+msgstr "Error durante las operaciones de Git: {error}"

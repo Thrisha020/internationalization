@@ -1,0 +1,7 @@
+IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLOo.
+       ENVIRONMENT DIVISION.
+      *
+       PROCEDURE DIVISION.
+           DISPLAY 'build'.
+           STOP RUN.
